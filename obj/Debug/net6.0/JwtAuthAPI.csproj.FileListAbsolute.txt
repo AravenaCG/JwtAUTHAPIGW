@@ -87,3 +87,4 @@ C:\Users\Exiuser\Desktop\JWTAuthAPI\JwtAuthAPI\obj\Debug\net6.0\refint\JwtAuthAP
 C:\Users\Exiuser\Desktop\JWTAuthAPI\JwtAuthAPI\obj\Debug\net6.0\JwtAuthAPI.pdb
 C:\Users\Exiuser\Desktop\JWTAuthAPI\JwtAuthAPI\obj\Debug\net6.0\JwtAuthAPI.genruntimeconfig.cache
 C:\Users\Exiuser\Desktop\JWTAuthAPI\JwtAuthAPI\obj\Debug\net6.0\ref\JwtAuthAPI.dll
+C:\Users\Exiuser\Desktop\JWTAuthAPI\JwtAuthAPI\obj\Debug\net6.0\JwtAuthAPI.sourcelink.json

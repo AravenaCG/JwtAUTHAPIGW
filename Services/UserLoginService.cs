@@ -18,7 +18,6 @@ namespace JwtAuthAPI.Services
         {
             Usuario usuarioExiste = await _context.Usuarios.FirstOrDefaultAsync(x => x.Email == email && x.Password == pass);
             return usuarioExiste;
-
         }
 
         public string GenerateToken(Usuario usuario)

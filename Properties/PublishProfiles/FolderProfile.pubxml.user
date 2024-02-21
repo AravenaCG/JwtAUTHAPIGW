@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Exiuser\Desktop\JWTAuthAPI\JwtAuthAPI\bin\Release\net6.0\publish\JwtAuthAPI\</_PublishTargetUrl>
+    <History>True|2024-02-20T19:57:25.4859496Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="SqlServerConStringOesat">
+      <Value>Data Source=E000158\\SQLEXPRESS%3bInitial Catalog=UsuariosOESAT%3bIntegrated Security=True%3bConnect Timeout=30%3bEncrypt=True%3bTrust Server Certificate=True%3bApplication Intent=ReadWrite%3bMulti Subnet Failover=False</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

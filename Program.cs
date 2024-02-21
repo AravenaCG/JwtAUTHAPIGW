@@ -36,7 +36,7 @@ builder.Services.AddCors(options =>
 {
     options.AddPolicy(MyCors, builder =>
     {
-        builder.WithOrigins("http://127.0.0.1:5500")
+        builder.AllowAnyOrigin()
                .AllowAnyHeader()
                .AllowAnyMethod();
     });

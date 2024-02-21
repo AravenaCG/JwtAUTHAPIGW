@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "wYF5gQHrn0JlalQYiDI7KoB6kAKvjWfX5spxi4aLLHg=",
+  "Source": "JwtAuthAPI",
+  "BasePath": "_content/JwtAuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

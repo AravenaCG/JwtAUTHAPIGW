@@ -50,7 +50,7 @@ namespace JwtAuthAPI.Controllers
             // Verificar si el usuario existe
             if (usuario == null)
             {
-                return Unauthorized("Credenciales incorrectas");
+                return Unauthorized("Credenciales incorrectas PERRI");
             }
             //crear TOKEN
             var token =  _userLoginService.GenerateToken(usuario);
